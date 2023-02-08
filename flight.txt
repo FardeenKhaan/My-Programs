@@ -1,0 +1,19 @@
+|TICKET INFORMATION:
+
+Name: Fardeen khan
+Phone: 03143174139
+Address: hyderabad
+Passport Number: 
+Origin: LAHORE
+Destination: KARACHI
+Food: Non Vegetarian
+Number of Seats: 3
+Class: Business
+Date of departure: 23042022
+Time: 4.00 PM
+Ticket: HF404
+Bill(in pakistani rupees): 65000/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: NO
